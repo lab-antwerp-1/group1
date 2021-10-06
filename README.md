@@ -1,6 +1,6 @@
 # (Group 1)
 
-<!-- describe your project -->
+<!-- grooup 1 project -->
 
 ## Getting Started
 
