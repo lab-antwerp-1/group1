@@ -1,6 +1,13 @@
-# (Group 1)
 
-<!-- grooup 1 project -->
+# Group 1
+
+<!-- group 1 project -->
+Group Members:
+- Darin
+- Nefn Lakhouj
+- Mahmoud Abu Azoum
+- Omar java
+
 
 ## Getting Started
 
