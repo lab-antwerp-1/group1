@@ -5,7 +5,7 @@
 Group Members:
 -  [Darin](https://github.com/lab-antwerp-1/group1/blob/master/people/Darin-Hamouda.md)
 - Nefn Lakhouj
-- Mahmoud Abu Azoum
+- [Mahmoud Abu Azoum](https://github.com/lab-antwerp-1/group1/blob/master/people/mahmoud.md)
 - [Ömer](https://github.com/lab-antwerp-1/group1/blob/master/people/Ömer.md)
 
 
