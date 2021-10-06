@@ -9,3 +9,15 @@
     "**/*.svg"
   ]
 }
+
+{
+  "language": "en",
+  "words": ["Ömer", "Ömer"],
+  "ignorePaths": [
+    "node_modules/**",
+    "package.json",
+    "package-lock.json",
+    "**/*.mp4",
+    "**/*.svg"
+  ]
+}
