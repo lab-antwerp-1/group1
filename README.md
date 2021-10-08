@@ -1,7 +1,7 @@
-
 # Group 1
 
 <!-- group 1 project -->
+
 Group Members:
 
 - [Darin](https://github.com/lab-antwerp-1/group1/blob/master/people/Darin-Hamouda.md)
