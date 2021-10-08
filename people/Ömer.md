@@ -1,4 +1,4 @@
-# Bio  
+# Bio
 
 My name is Ömer. I'm from Turkey.  
 I have a Bachelor of Science (Economics) degree from  
