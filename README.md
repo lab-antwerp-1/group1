@@ -3,11 +3,11 @@
 
 <!-- group 1 project -->
 Group Members:
--  [Darin](https://github.com/lab-antwerp-1/group1/blob/master/people/Darin-Hamouda.md)
+
+- [Darin](https://github.com/lab-antwerp-1/group1/blob/master/people/Darin-Hamouda.md)
 - [Nefn Lakhouj](https://github.com/lab-antwerp-1/group1-Introduction/blob/master/people/Nefn-Lakhouj.md)
 - [Mahmoud Abu Azoum](https://github.com/lab-antwerp-1/group1/blob/master/people/mahmoud.md)
 - [Ömer](https://github.com/lab-antwerp-1/group1/blob/master/people/Ömer.md)
-
 
 ## Getting Started
 
