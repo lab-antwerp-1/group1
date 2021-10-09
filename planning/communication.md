@@ -25,8 +25,8 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       |  name   |  name   |  name   |  name   |  name   |
-| --------- | :Omer : | :-----: | :-----: | :-----: | :-----: |
+| Day       |  Omer   |  name   |  name   |  name   |  name   |
+| --------- | :-----: | :-----: | :-----: | :-----: | :-----: |
 | Monday    | 08 - 11 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
 | Tuesday   | 19 - 24 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
 | Wednesday | 19 - 24 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
