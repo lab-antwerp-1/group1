@@ -26,16 +26,17 @@ how often will we get in touch on each channel, and what we will discuss there:
 ### Availability for calling/messaging
 
 | Day       |  name   |  name   |  name   |  name   |  name   |
-| --------- | :-----: | :-----: | :-----: | :-----: | :-----: |
-| Monday    | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Tuesday   | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Wednesday | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Thursday  | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
-| Friday    | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
+| --------- | :Omer : | :-----: | :-----: | :-----: | :-----: |
+| Monday    | 08 - 11 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
+| Tuesday   | 19 - 24 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
+| Wednesday | 19 - 24 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
+| Thursday  | 08 - 11 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
+| Friday    | 09 - 24 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
+| Saturday  | 09 - 24 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
+- Omer: _xh_; I am free on Fridays and Saturdays. I work late shifts on Mondays and Thursdays and normal shift on Tuesdays and Wednesdays.
 - name: _6h_;
 - name: _5h_;
 - name: _4h_;
