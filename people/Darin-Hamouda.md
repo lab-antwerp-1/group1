@@ -16,3 +16,5 @@
  </div>
   
 ![Darin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darin-Hamouda&show_icons=true&theme=gruvbox)
+
+Finish.
